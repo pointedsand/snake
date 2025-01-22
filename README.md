@@ -1,6 +1,6 @@
 # Snake
 
-Snake game written in C using ncurses library 
+A basic snake game written in C using ncurses.
 
 Use arrow keys to move.
 
